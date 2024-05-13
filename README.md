@@ -2,7 +2,7 @@
 
 ## Iam intrested in web development
 
-### Iam learning this languages an libraris:
+### Iam learning this languages and libraris:
 
 1.HTML/CSS
 2.JS
